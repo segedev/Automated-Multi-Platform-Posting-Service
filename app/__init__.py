@@ -1,0 +1,1 @@
+"""Automated multi-platform posting service package."""
